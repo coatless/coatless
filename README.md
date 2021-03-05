@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <!--
-**coatless/coatless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://github.com/coatless">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=coatless&show_icons=true&include_all_commits=true&hide=contribs" alt="Coatless' github stats"/>
+</a>
+
+<a href="https://github.com/coatless">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=coatless&layout=compact" />
+</a>

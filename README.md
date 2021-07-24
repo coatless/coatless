@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <a href="https://github.com/coatless">
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=coatless&show_icons=true&include_all_commits=true&hide=contribs" alt="Coatless' github stats"/>
 </a>
@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/coatless">
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=coatless&layout=compact" />
 </a>
+-->
+
+<!-- If you're using "main" as default branch -->
+![Metrics](https://github.com/coatless/coatless/blob/main/github-metrics.svg)
